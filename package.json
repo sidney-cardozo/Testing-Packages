@@ -1,0 +1,14 @@
+{
+  "name": "first_time_package_use",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "talk"
+  },
+  "author": "Sidney",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.0.1"
+  }
+}
